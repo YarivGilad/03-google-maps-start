@@ -26,8 +26,6 @@ Some ideas:
 3. Integrate the Browser's geolocation api
    to ask & display the user's location
 
-Enjoy the exercise!  
-Yariv
 ``` 
   ,_,
  (O,O)
@@ -35,7 +33,7 @@ Yariv
 --"-"-------
 ```
 
-Send me a postcard :)    
+Enjoy the exercise!    
 [Yariv](https://www.linkedin.com/in/yarivgilad/)    
 
 <br>
